@@ -35,7 +35,7 @@ This script, inspired by the advanced automation capabilities of Skynet, is desi
 ## Usage
 1. Run the script:
    ```bash
-   python <script-name>.py
+   python move_my_mouse.py
    ```
 2. The script will:
    - Move the mouse to the center of the main screen.
